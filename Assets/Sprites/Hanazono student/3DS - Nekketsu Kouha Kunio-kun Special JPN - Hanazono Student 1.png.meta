@@ -1,0 +1,1979 @@
+fileFormatVersion: 2
+guid: 7178b0212c8ca0f41ac51471268e591b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 597
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1fd79e17d14448821dec281dbce89
+      internalID: 1200410979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 597
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd33bb64d7bcb4fb860e2706d44234
+      internalID: 278570523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 597
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1235edce910f4daed98e50ee66301
+      internalID: 2040890883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 597
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60dae3aad551354a8a53139d797485b
+      internalID: -309313250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 597
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87755dbd16092f84dace710d9b3001a4
+      internalID: -174649391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 597
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b732e519871f1f2429979a77ad1c0fed
+      internalID: 2113026863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 598
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02d277a308d78468631c8f31d1e5a0
+      internalID: 24995949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 597
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bf3ced48dd5f4e84c76c7c22bb5d5
+      internalID: -18756694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_8
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 597
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092dfe8942d268b41877c794e64e1952
+      internalID: -1545230129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 603
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca3e1dafd3abf44916d9f48a9c38e6
+      internalID: 1680451839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 523
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a41a71b93de78d488b236d1d26632f8
+      internalID: 807448526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 523
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010dac8d2a842f48b748e32ad7c639c
+      internalID: -674549312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 523
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c99f59ac542c6418817f998329c06d
+      internalID: 1971699408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 523
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a65cdec56d8147bd50118c8573626
+      internalID: -1940644069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 523
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35367585a6dadb64faace93f46d59578
+      internalID: 1105916282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 523
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32484efc0205e4fb3bf6bcdb0d09e7
+      internalID: -591167699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 523
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d8eb7176981945a0f10624191a59c
+      internalID: -614126495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 523
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3cdc113067ee49a362e3051814c55
+      internalID: 1073173726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 523
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61e9f3810d0ee449907424781db6dc
+      internalID: 1201469808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 529
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a0a0acc0754644992ebb0fee54fcb
+      internalID: -1571596586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 452
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c41f96bfc978648955b9cef595562d
+      internalID: -1964565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 449
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e061fc60552e74da7a945c44f72be9
+      internalID: -1296349834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 451
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c27471f46b17947802cce58146134f
+      internalID: -902949712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 449
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f43b37820cd749954d0b2657aad61
+      internalID: -1903861448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 449
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3413ebedfb195418ef9cc2d458296d
+      internalID: -80310287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 449
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21f4e5d377c0248abe24727a2cddf2
+      internalID: -1220304445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21594a0af5617428dec4cec7417592
+      internalID: 770598023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 449
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ebc04be999d04aa71af19d9b909c0
+      internalID: 1468549179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 449
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb278595fc7844eb8d1e9d0edd15f6
+      internalID: 1482284225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 375
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5b87945c0f774899e9d203a953e21
+      internalID: 588963464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 375
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa636a1ebd44f64b8e165fd5b8b51ed
+      internalID: -1238117239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceHit0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 375
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b96dc9bbad7ba48b3ed77818aa126c
+      internalID: 2088756087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 375
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff216637bce5cb4c8cf4e3f5daefe8e
+      internalID: 716463606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit0
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 375
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a3735419efb7e44be2522685b422af
+      internalID: -106837977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 375
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805b5fa3a9bc5247aeedd550f9973ed
+      internalID: 106267733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 375
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ff551ee7acc544bbd22075242a9f4
+      internalID: -1814488780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 375
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c37b263a85bb4a803982f1cc7c24c
+      internalID: 1972510435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 375
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15bceda22cc73479882cd2bb65e4f7
+      internalID: -951647248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceHit2(0)
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 301
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795f9053f9c6d4469a9e0ba98f47d1c
+      internalID: -1319531928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceHit2(1)
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0f37937ebb394a892a1acaef283d8
+      internalID: -1925373366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 301
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c6bbcf87217e41a5c299de1aa9fa6
+      internalID: 1225858675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 301
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bae7610143d564e852b7906b6325a2
+      internalID: 992189948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 301
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68734fe42a65d3f4da2cb2c42f0cccc6
+      internalID: -1059794449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 301
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d62d362bee5a4c814a8ca81a872ca
+      internalID: 1616592324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_44
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 301
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b982ef4c08067b47aa47f63fa64b7ac
+      internalID: -1098014552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 301
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ed69b6a5abbc4f842fadca1b73317
+      internalID: -1492540173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_46
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 301
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad7ce98f3f3a97419d8e04b133f8021
+      internalID: -1130384984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 227
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1713ddad5bf2934c8ce9022187e762d
+      internalID: -283343457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 227
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e366e45eafa544b3472a93776e1c2
+      internalID: 580428679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 227
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef48e4b86a61ef46a1c254d44dd5d88
+      internalID: -1105813466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 227
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433cba4908b995043af12d61cf9c563c
+      internalID: -1456472713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 227
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db413eb16d9888a45a09681461fa6220
+      internalID: 296620408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 227
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ba3cd2f01cb847a0f166fa30a7f39
+      internalID: -1158113664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 227
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce87b6a6576c8f488206020f875dd6c
+      internalID: 973822054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 227
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a18698b06d8054397d52dac409a796
+      internalID: -110270255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_55
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 227
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976439deee350e43977a33456af3b7b
+      internalID: 334843763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca9f14c5bd2744bb1db6b2374efa2c
+      internalID: -1963613513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 153
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636f053c00520b43809bf0785695d87
+      internalID: 1467049730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 153
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124ac5c0f4d7ed4c96eb7e5c90f304b
+      internalID: 15355721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 154
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2118ab8141093646b7982e3115ae254
+      internalID: 1243348273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_60
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 153
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8b9e5ac9a17748828cca182c44b90
+      internalID: -791185578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 153
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf515447e869df5469a0bf2e9f0102b0
+      internalID: -359796315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_62
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 153
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5275196ea0a0f48896daebda8903a3
+      internalID: 2094698032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_63
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 153
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e345e2b5b63bd40a5a82dcab8073d4
+      internalID: -1330856305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 153
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7eed0bdad54e14699defb7954d5576
+      internalID: -325249423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100954582ef59124d80ce164112e7c8c
+      internalID: 1218094535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203d789a4564014da034afbf4be75e9
+      internalID: 690122833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallHit6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5539ba24eafe74aaabe76c33b0b286
+      internalID: -645365480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 79
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e6808ebfb48d42a621219715ba5d0
+      internalID: 1281389299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_69
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 82
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc5961cc96c174686f0786f1ad2964
+      internalID: -2107733933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_70
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa09bc01f7c524a93ea120c1abe650
+      internalID: 1387060566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_71
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 80
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4808090ff7bd439cee15b24acaa49
+      internalID: -1880913352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_72
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 79
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a0b37bf78f7a4bbcf924f7194b8ff
+      internalID: -2137480009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 83
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015603219c97059488dc435882d73f39
+      internalID: -1329374399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_74
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095439b0e6d295a438bc49a84548682a
+      internalID: -1378280011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d30509bc4877649a880777654026eb
+      internalID: 1782303081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722742fe6530ea478f58a534f96741e
+      internalID: -18248111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29358617d64b4204ba56395752863f12
+      internalID: -1331657835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24402a6e637424a999a8ea2f100e63
+      internalID: 1582672050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3fc8aa0a4d59478985c472b2f7afe
+      internalID: -280437800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_80
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb9a02a0e0be44aa1118e891fa50d1
+      internalID: -704741678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb254e9c02f0c46bc60affa7fc186c
+      internalID: 1665203677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 5
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad173559a5a02d4db9d54389f30ecd1
+      internalID: -1776516911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_0: 1200410979
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_1: 278570523
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_10: 807448526
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_11: -674549312
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_12: 1971699408
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_13: -1940644069
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_14: 1105916282
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_15: -591167699
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_16: -614126495
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_17: 1073173726
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_18: 1201469808
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_19: -1571596586
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_2: 2040890883
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_20: -1964565736
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_21: -1296349834
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_22: -902949712
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_23: -1903861448
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_24: -80310287
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_25: -1220304445
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_26: 770598023
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_27: 1468549179
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_28: 1482284225
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_3: -309313250
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_32: 716463606
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_34: 106267733
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_35: -1814488780
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_40: 1225858675
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_41: 992189948
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_42: -1059794449
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_43: 1616592324
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_44: -1098014552
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_45: -1492540173
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_46: -1130384984
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_47: -283343457
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_48: 580428679
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_49: -1105813466
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_50: -1456472713
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_51: 296620408
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_52: -1158113664
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_53: 973822054
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_54: -110270255
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_55: 334843763
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_56: -1963613513
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_57: 1467049730
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_58: 15355721
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_59: 1243348273
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_6: 24995949
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_60: -791185578
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_61: -359796315
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_62: 2094698032
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_63: -1330856305
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_64: -325249423
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_65: 1218094535
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_66: 690122833
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_68: 1281389299
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_69: -2107733933
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_7: -18756694
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_70: 1387060566
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_71: -1880913352
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_72: -2137480009
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_73: -1329374399
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_74: -1378280011
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_75: 1782303081
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_76: -18248111
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_77: -1331657835
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_78: 1582672050
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_79: -280437800
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_8: -1545230129
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_80: -704741678
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_81: 1665203677
+      3DS - Nekketsu Kouha Kunio-kun Special JPN - Hanazono Student 1_9: 1680451839
+      Dead: -1776516911
+      FaceHit0: 2088756087
+      FaceHit2(0): -1319531928
+      FaceHit2(1): -1925373366
+      FallHit0: -106837977
+      FallHit1: -1238117239
+      FallHit2: 588963464
+      FallHit3: 1972510435
+      FallHit4: -951647248
+      FallHit6: -645365480
+      IDLE0: -174649391
+      IDLE1: 2113026863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
